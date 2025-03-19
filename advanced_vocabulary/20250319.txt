@@ -1,0 +1,141 @@
+dread (v) = to be very afraid of something; to fear that something bad is going to happen
+"He dreaded opening the letter, fearing it contained bad news."
+"They dreaded the idea of moving to a new city where they knew no one."
+"I always dread going to the dentist, even for a routine check-up."
+"The students dreaded the upcoming exam after hearing how difficult it would be."
+"She dreaded being late for the interview, knowing first impressions were crucial."
+
+dread (n) = a feeling of great fear about something that might or will happen in the future; a thing that causes this feeling
+"A sense of dread filled the room as the storm approached."
+"He couldn't shake the dread of failure before his big performance."
+"The villagers lived in constant dread of another attack."
+"Her heart was heavy with dread as she waited for the results."
+"The dread of the unknown can often be more frightening than reality."
+
+vague (adj) = not clear in a person’s mind
+"Her explanation was so vague that it left everyone puzzled about the details."
+"He had a vague idea of what the meeting would entail, but nothing concrete."
+"The instructions on the package were vague, making assembly a challenge."
+"There was a vague resemblance between the two siblings, though their features were different."
+"Her vague recollection of the event made it hard to piece together what had happened."
+
+penitent (adj) = showing that you are sorry for something you have done because you feel it was wrong
+"The penitent student apologized sincerely for cheating on the test."
+"She gave her parents a penitent look after breaking their favorite vase."
+"He spoke with a penitent tone, acknowledging the harm he had caused."
+"The penitent criminal sought forgiveness from the victims of his actions."
+"Feeling penitent, she vowed never to repeat her mistakes."
+
+vogue (n) = a fashion for something
+"Oversized jackets are back in vogue this season, gracing runways everywhere."
+"The vogue for minimalist designs has transformed modern architecture."
+"Her style was always ahead of the current vogue, making her a trendsetter."
+"During the 1920s, jazz music came into vogue and dominated the cultural scene."
+"The vogue for sustainable living has inspired countless innovative products."
+
+de facto (n) = a person who lives with somebody as their husband or wife, although they are not officially married
+"Although he held no official title, he was the de facto leader of the group, making all the critical decisions."
+"The position of de facto ruler came with immense responsibility, even without legal recognition."
+"In many households, mothers are often the de facto managers of daily family life."
+"After the coup, the military became the de facto government, ruling without a formal mandate."
+"Despite lacking a formal agreement, she acted as the de facto spokesperson for the team during meetings."
+
+outline (v) = to give a description of the main facts or points involved in something
+"The professor asked the students to outline the key points of the article in their report."
+"She outlined her vision for the project during the team meeting."
+"The lawyer took time to outline the terms of the agreement to ensure clarity."
+"The speaker outlined the steps required to achieve financial independence."
+"Before starting the essay, he outlined his main arguments to stay organized."
+
+outline (n) = a description of the main facts or points involved in something
+"The architect presented an outline of the new building to the committee."
+"She sketched a rough outline of the landscape before starting her painting."
+"The report provided a clear outline of the company's goals for the year."
+"The teacher asked the students to prepare an outline before writing their essays."
+"He traced the outline of the design onto the fabric to ensure
+precision."
+
+loathing (n) = a strong feeling of hating somebody/something
+"She felt a deep loathing for the corruption that had plagued the system for years."
+"His loathing of dishonesty was evident in every decision he made."
+"The movie villain's loathing for humanity was portrayed in every scene."
+"I can't understand their loathing for something as harmless as pineapple on pizza."
+"The workers' loathing of the unfair policies led to widespread protests."
+
+confiscate (v) = to officially take something away from somebody, especially as a punishment
+"The teacher confiscated the student's phone after catching them texting during class."
+"Customs officers confiscated the undeclared goods at the airport."
+"The guards were ordered to confiscate any prohibited items found in the visitors' bags."
+"The librarian had to confiscate overdue books from students who refused to return them."
+"The police confiscated the counterfeit currency during the raid."
+
+decapitate (v) = to cut off somebody’s head
+
+longing = a strong feeling of wanting something/somebody
+"Her longing for adventure grew stronger with every story she read about distant lands."
+"There was an unmistakable longing in his eyes as he gazed at the photograph."
+"The song captured the bittersweet longing of a love that could never be."
+"He felt a deep longing to return to the town where he had spent his childhood."
+"The letter was filled with expressions of longing for the family she had left behind."
+
+expedite (v) =  to make a process happen more quickly
+"The company hired additional staff to expedite the completion of the project."
+"To expedite the delivery, they opted for express shipping services."
+"She submitted all the required documents promptly to expedite the visa approval process."
+"The emergency team worked tirelessly to expedite the rescue operations."
+"The manager suggested a new strategy to expedite the decision-making process."
+
+peculiar (adj) = strange or unusual, especially in a way that is unpleasant or makes you worried
+"There was a peculiar smell in the air that no one could quite identify."
+"She has a peculiar way of organizing her books, grouping them by color rather than genre."
+"His peculiar behavior at the meeting left everyone wondering what was on his mind."
+"The painting had a peculiar charm that made it stand out among the others in the gallery."
+"It's peculiar how the lights flicker every evening at the same time."
+
+enrapture (v) = to give somebody great pleasure or joy
+"The breathtaking performance managed to enrapture the entire audience."
+"He was enraptured by the beauty of the sunset over the ocean."
+"The novel’s intricate plot and vivid descriptions enraptured readers worldwide."
+"Her soulful singing enraptured everyone in the concert hall."
+"The children were enraptured by the magician's dazzling tricks."
+
+barge (v) = to move in a rough and careless way, pushing people out of the way or crashing into them
+"He barged into the meeting room without knocking, interrupting the discussion."
+"She accidentally barged into a stranger while rushing through the crowded station."
+"The kids barged into the kitchen, eager to grab some snacks."
+"Without waiting for an invitation, he barged his way into the conversation."
+"They barged through the heavy doors, desperate to escape the pouring rain."
+
+barge (n) = a large boat with a flat bottom, used for carrying goods and people on canals and rivers
+"The barge was loaded with heavy crates, ready to sail down the river."
+"We took a tour on a historic barge that used to transport coal."
+"The barge slowly made its way through the canal, carrying tons of cargo."
+"Farmers used the barge to transport their produce to market across the water."
+"A luxurious party was hosted on a beautifully decorated barge docked by the shore."
+
+recoil (v) = to move your body quickly away from somebody/something because you find them or it frightening or unpleasant
+"She recoiled in fear as the snake slithered closer."
+"He recoiled at the harsh criticism, visibly taken aback."
+"The loud noise made the child recoil instinctively."
+"The soldier’s rifle recoiled after firing the powerful shot."
+
+cede (v) = to give somebody control of something or give them power, a right, etc., especially unwillingly
+"The country decided to cede part of its territory as part of the peace agreement."
+"Under pressure, the company had to cede control of its operations to foreign investors."
+"He refused to cede his position, despite mounting opposition from his colleagues."
+"The treaty required the defeated nation to cede significant resources to the victors."
+"She was unwilling to cede her authority, even in the face of overwhelming evidence."
+
+vortex (n) = a mass of air, water, etc. that turns round and round very fast and pulls things into its centre
+"The tornado created a powerful vortex that pulled in everything in its path."
+"She felt like she was being drawn into an emotional vortex, unable to find her balance."
+"The whirlpool formed a dangerous vortex that threatened to capsize small boats."
+"His desk was a vortex of scattered papers and unfinished projects."
+"The fighter jet spun out of control, caught in the vortex of turbulent air."
+
+opulence (n) = a display of great wealth
+"The palace's opulence was evident in its gold-plated ceilings and crystal chandeliers."
+"She was overwhelmed by the sheer opulence of the five-star hotel suite."
+"The film depicted the opulence of 18th-century aristocratic life with stunning costumes and lavish sets."
+"His lifestyle was defined by opulence, from luxury cars to extravagant vacations."
+"The museum's exhibit showcased the opulence of ancient Egyptian treasures."
