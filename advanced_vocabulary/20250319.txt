@@ -71,7 +71,7 @@ confiscate (v) = to officially take something away from somebody, especially as 
 
 decapitate (v) = to cut off somebody’s head
 
-longing = a strong feeling of wanting something/somebody
+longing (n) = a strong feeling of wanting something/somebody
 "Her longing for adventure grew stronger with every story she read about distant lands."
 "There was an unmistakable longing in his eyes as he gazed at the photograph."
 "The song captured the bittersweet longing of a love that could never be."
