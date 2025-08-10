@@ -1,25 +1,103 @@
 seek (v), sought, sought =  to look for something/somebody
+Personal Growth: She seeks knowledge through books and travel.
+Career: Many graduates seek employment opportunities abroad.
+Advice: If you're unsure about your decision, you should seek guidance from a mentor.
+Adventure: They seek excitement in extreme sports like skydiving.
+Justice: The victims' families continue to seek justice for their loved ones.
+Love: He seeks a deep and meaningful connection with someone special.
 
 crude (adj) = in its natural state, before it has been processed or refined
+Material: The artist used crude clay to sculpt his first design.
+Manners: His crude remarks made everyone uncomfortable.
+Oil: Crude oil is a key resource for fuel production.
+Approach: The scientist's crude method yielded unreliable results.
+Humor: Some people enjoy crude jokes, while others find them offensive.
+Sketch: Her first draft was crude, but it had potential.
 
 Dane (n) = a person from Denmark
+Nationality: Hans is a proud Dane who loves sharing his country's traditions.
+Culture: As a Dane, she enjoys celebrating Midsummer with bonfires and music.
+Travel: The Dane was excited to explore new places beyond Scandinavia.
+History: Many famous Danes, like Hans Christian Andersen, have influenced literature worldwide.
+Sports: The young Dane trained tirelessly to compete in international cycling events.
+Business: The company was founded by a Dane with a passion for sustainable technology.
 
 deplete (v) = to reduce something by a large amount so that there is not enough left; to be reduced by a large amount
+Resources: Overfishing continues to deplete marine life in many regions.
+Energy: After running a marathon, his energy was completely depleted.
+Finances: Constant spending can quickly deplete one's savings.
+Supplies: The store's stock was depleted after a wave of customers arrived.
+Environment: Pollution and deforestation deplete natural resources.
+Health: Stress can deplete a person’s ability to focus and function well.
 
 depletion (n) = the reduction of something by a large amount so that there is not enough left
+Environmental Impact: The depletion of natural forests has led to habitat loss for many species.
+Energy Resources: Scientists warn about the depletion of fossil fuels and the need for sustainable alternatives.
+Health: Depletion of essential nutrients can result in serious health complications.
+Economy: The depletion of government funds forced officials to cut public spending.
+Battery Life: My phone's battery depletion was faster than expected due to excessive use.
+Mental Exhaustion: The depletion of her motivation after months of stress was evident in her work.
 
 malignant (adj) = (of a tumour or disease) that cannot be controlled and is likely to cause death
+Medical: The doctors confirmed that the tumor was malignant and required immediate treatment.
+Personality: His malignant attitude toward his colleagues made the workplace toxic.
+Influence: The malignant spread of misinformation caused unnecessary panic among the public.
+Intentions: She detected a malignant intent behind his seemingly polite gestures.
+Disease: Malignant cells can rapidly multiply and invade other parts of the body.
+Politics: The country's stability was threatened by a malignant force seeking to undermine democracy.
 
 melanoma (n) = a type of cancer that appears as a dark spot or tumour on the skin
+Medical Diagnosis: The doctor confirmed that the mole was a melanoma and recommended immediate treatment.
+Prevention: Wearing sunscreen daily can help reduce the risk of developing melanoma.
+Awareness: Organizations host events to educate the public about the dangers of melanoma.
+Research: Scientists are working on new treatments to improve melanoma survival rates.
+Detection: Early detection of melanoma can significantly increase the chances of successful treatment.
+Genetics: Some people have a genetic predisposition to melanoma and need regular skin screenings.
 
-choir (n) pronunciation
+choir (n) = a group of people who sing together, for example in church services or public performances
+Music Performance: The choir delivered a breathtaking rendition of the classic hymn.
+Community: She joined a local choir to meet new people and share her passion for singing.
+Church Setting: Every Sunday, the church choir fills the hall with uplifting melodies.
+Competition: Their school choir won first place in the national choral competition.
+Education: The music teacher encouraged students to audition for the school choir.
+Practice: The choir rehearsed tirelessly for their upcoming holiday concert.
 
-hone (n) = to develop and improve something, especially a skill, over a period of time
+hone (v) = to develop and improve something, especially a skill, over a period of time
+Skills: She practices every day to hone her painting technique.
+Talent: The athlete worked tirelessly to hone his sprinting abilities.
+Writing: Reading widely helped him hone his storytelling skills.
+Focus: Meditation can hone your ability to concentrate under pressure.
+Craftsmanship: The blacksmith spent years honing his metalworking expertise.
+Leadership: She attended workshops to hone her communication as a team leader.
 
 instill (v) = to gradually put an idea or attitude into somebody's mind; to make somebody feel, think or behave in a particular way over a period of time
+Values: Parents strive to instill honesty and kindness in their children.
+Confidence: The coach worked hard to instill a sense of self-belief in the team.
+Discipline: Military training is designed to instill discipline and resilience.
+Fear: The eerie silence of the abandoned house instilled a deep sense of unease.
+Motivation: His inspiring words instilled hope in those facing hardship.
+Respect: Teachers play a crucial role in instilling respect for different cultures.
 
 scrupulous (adj) = careful about paying attention to every detail
+Ethics: The journalist was scrupulous about verifying facts before publishing any story.
+Work: She was known for her scrupulous attention to detail in every project she handled.
+Honesty: His scrupulous nature made him the perfect candidate for managing company finances.
+Law: The judge was scrupulous in ensuring that every case was treated fairly.
+Academics: The researcher followed scrupulous methods to maintain scientific integrity.
+Business: A scrupulous shopkeeper never overcharges customers or hides product defects.
 
 unscrupulous (adj) = without moral principles; not honest or fair
+Business Ethics: The unscrupulous salesman tricked customers into buying faulty products.
+Politics: Unscrupulous leaders manipulate people for personal gain.
+Finance: An unscrupulous investor exploited loopholes to profit illegally.
+Crime: The gang was led by an unscrupulous mastermind who showed no remorse.
+Competition: He used unscrupulous tactics to sabotage his rivals.
+Journalism: Some unscrupulous reporters spread false stories for attention.
 
 trenchant (adj) = expressed strongly and effectively, in a clear way
+Criticism: Her trenchant remarks about the flawed policy left the audience stunned.
+Analysis: The journalist's trenchant analysis of the economic crisis was widely praised.
+Humor: His trenchant wit made even serious topics amusing.
+Observation: The professor's trenchant observations about human behavior were insightful.
+Debate: The lawyer's trenchant arguments left no room for doubt.
+Writing: The novel's trenchant social commentary resonated with many readers.

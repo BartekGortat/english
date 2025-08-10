@@ -47,8 +47,6 @@ The experiment results were skewed by extraneous variables that hadn’t been co
 The data was carefully reviewed to eliminate any extraneous information that might mislead the analysis.
 
 exaltation (n) = a feeling of very great joy or happiness
-Expressing joy or elation:
-
 Her heart filled with exaltation as she stood atop the mountain, taking in the breathtaking view.
 The team's victory was met with cries of exaltation from their devoted fans.
 The hymn was sung with an air of exaltation, lifting the spirits of the congregation.
@@ -95,6 +93,14 @@ The book opens with a parable about a farmer, illustrating the importance of pat
 Her story was almost like a parable, teaching us the value of resilience and hope.
 The movie felt like a parable for our times, highlighting the dangers of greed and corruption.
 His speech included a clever parable about teamwork, inspiring everyone in the room.
+
+aisle (n) = a passage between rows of seats in a church, theatre, train, etc., or between rows of shelves in a supermarket
+She walked gracefully down the aisle, her white dress flowing behind her.
+I hurried through the supermarket aisle, searching for my favorite cereal.
+The flight attendant moved up the aisle, offering passengers snacks and drinks.
+He nervously peeked from behind the curtains, ready to step into the aisle for his speech.
+We sat in the aisle seats so we could stretch our legs during the long flight.
+The bookstore had an entire aisle dedicated to science fiction novels.
 
 radiant (adj) = 1 showing great happiness, love or health; 2 sent out in rays from a central point
 The bride looked absolutely radiant as she walked down the aisle.
